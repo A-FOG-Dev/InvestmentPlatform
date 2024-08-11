@@ -1,0 +1,27 @@
+{
+  "name": "invesment_group",
+  "version": "1.0.0",
+  "description": "Project that allow create investment groups, run automatic strategies and distribute profit and losses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ignition": "^0.15.5",
+    "@nomiclabs/hardhat-ethers": "^1.0.0",
+    "@types/chai": "^4.3.17",
+    "@types/mocha": "^10.0.7",
+    "chai": "^5.1.1",
+    "eslint": "^9.9.0",
+    "ethers": "^4.0.49",
+    "hardhat": "^2.22.8",
+    "hardhat-gas-reporter": "^2.2.0",
+    "mocha": "^10.7.3",
+    "prettier": "^3.3.3",
+    "solhint": "^5.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
